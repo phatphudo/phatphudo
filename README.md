@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Email: dophuphat.chem@gmail.com
+Contact me: dophuphat.chem@gmail.com
 
 Project:
 * Object Detection with YOLOv5 [[code](https://nbviewer.org/github/phatphudo/Face-Mask-Detection-with-YOLOv5/blob/main/face_mask_detection_yolov5.ipynb#)]
