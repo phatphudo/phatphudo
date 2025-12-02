@@ -2,11 +2,6 @@
 
 Contact me: dophuphat.chem@gmail.com
 
-Project:
-* Object Detection with YOLOv5 [[code](https://nbviewer.org/github/phatphudo/Face-Mask-Detection-with-YOLOv5/blob/main/face_mask_detection_yolov5.ipynb#)]
-* Image Classification in Deep Learning with PyTorch [[code](https://nbviewer.org/github/phatphudo/Jovian-Deep-Learning-with-PyTorch/blob/master/Project%20-%20Train%20a%20Deep%20Learning%20Model%20from%20Scratch/intel_image_Classification_v2.ipynb)]
-* Classification in Machine Learning [[code](https://nbviewer.org/github/phatphudo/Jovian-Machine-Learning-with-Python/blob/master/Course%20Project%20-%20Real-World%20Machine%20Learning%20Model/HR_analysis-classification.ipynb)]
-
 <!--
 **phatphudo/phatphudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
